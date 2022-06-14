@@ -16,7 +16,7 @@
 ### Запуск проекта в dev-режиме
 клонируйте репозиторий 
 ```
-git clone git@github.com:andrey-kolesnik-moscow/api_final_yatube.git
+git clone git@github.com:andrey-kolesnik-moscow/Yatube_API.git
 ```
 создайте и активируйте виртуальное окружение
 ```
