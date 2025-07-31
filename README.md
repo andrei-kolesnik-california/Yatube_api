@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8.3-blue.svg)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-2.2.16-green.svg)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/Django%20REST%20Framework-3.12.4-red.svg)](https://www.django-rest-framework.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > A powerful REST API for a social media platform where users can share posts, interact through comments, join groups, and follow other authors.
 
@@ -132,10 +131,6 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
