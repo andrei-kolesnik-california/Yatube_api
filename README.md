@@ -8,12 +8,12 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Quick Start](#quick-start)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Quick Start](#-quick-start)
+- [API Documentation](#-api-documentation)
+- [Contributing](#-contributing)
 
 ## 🎯 Overview
 
@@ -142,5 +142,5 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 
 <div align="center">
   <p>Made with ❤️ for the developer community</p>
-  <p><a href="#yatube-api--social-media-platform-api">⬆️ Back to top</a></p>
+  <p><a href="#-yatube-api--social-media-platform-api">⬆️ Back to top</a></p>
 </div>
