@@ -71,7 +71,7 @@ Yatube API is a comprehensive social media platform backend built with Django RE
 
 1. **Clone the repository**
    ```bash
-   git clone git@github.com:andrey-kolesnik-moscow/Yatube_API.git
+   git clone git@github.com:andrei-kolesnik-california/Yatube_API.git
    cd Yatube_API
    ```
 
